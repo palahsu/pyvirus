@@ -1,3 +1,5 @@
+#This script make unlimited folders!
+
 import os
 
 counter = 1
