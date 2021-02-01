@@ -1,4 +1,4 @@
-#This script open multiple app randomly.
+#This script open multiple app randomly. 
 
 import os
 
