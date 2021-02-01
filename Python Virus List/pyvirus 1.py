@@ -1,3 +1,4 @@
+#This script make unlimied files.
 i = 1
 while(i>0):
   i = i+1
