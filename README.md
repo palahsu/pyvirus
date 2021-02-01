@@ -1,5 +1,5 @@
 # pyvirus
 
-Presenting Py Virus List!!
+Presenting Python Virus List!!
 
 Coming Soon!
